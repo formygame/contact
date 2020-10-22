@@ -1,0 +1,10 @@
+body{
+	background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url("bg.jfif");
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+p{
+	color: #B0E0E6;
+}
